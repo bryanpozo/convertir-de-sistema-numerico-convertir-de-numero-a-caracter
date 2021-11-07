@@ -1,0 +1,32 @@
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.exe
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.deps.json
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.runtimeconfig.json
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.runtimeconfig.dev.json
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\ref\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.pdb
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.csproj.AssemblyReference.cache
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.AssemblyInfo.cs
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\ref\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.pdb
+C:\Users\bryan pozo\Desktop\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.genruntimeconfig.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.exe
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.deps.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.runtimeconfig.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.runtimeconfig.dev.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\ref\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\bin\Debug\net5.0\Conversiones de sistemas numéricos.pdb
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.csproj.AssemblyReference.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.AssemblyInfo.cs
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\ref\Conversiones de sistemas numéricos.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.pdb
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Conversiones de sistemas numéricos\Conversiones de sistemas numéricos\obj\Debug\net5.0\Conversiones de sistemas numéricos.genruntimeconfig.cache

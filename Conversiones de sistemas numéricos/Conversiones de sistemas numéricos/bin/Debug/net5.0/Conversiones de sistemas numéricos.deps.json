@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Conversiones de sistemas numéricos/1.0.0": {
+        "runtime": {
+          "Conversiones de sistemas numéricos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conversiones de sistemas numéricos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

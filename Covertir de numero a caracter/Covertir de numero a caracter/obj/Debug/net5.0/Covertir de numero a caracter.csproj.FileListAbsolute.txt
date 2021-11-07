@@ -1,0 +1,32 @@
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.csproj.AssemblyReference.cache
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.AssemblyInfo.cs
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.exe
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.deps.json
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.runtimeconfig.json
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.runtimeconfig.dev.json
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\ref\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.pdb
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\ref\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.pdb
+C:\Users\bryan pozo\Desktop\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.genruntimeconfig.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.exe
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.deps.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.runtimeconfig.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.runtimeconfig.dev.json
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\ref\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\bin\Debug\net5.0\Covertir de numero a caracter.pdb
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.csproj.AssemblyReference.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.AssemblyInfoInputs.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.AssemblyInfo.cs
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.csproj.CoreCompileInputs.cache
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\ref\Covertir de numero a caracter.dll
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.pdb
+C:\Users\bryan pozo\Desktop\ARQUITECTURA DEL COMPUTADOR\lab\semana 1\Covertir de numero a caracter\Covertir de numero a caracter\obj\Debug\net5.0\Covertir de numero a caracter.genruntimeconfig.cache

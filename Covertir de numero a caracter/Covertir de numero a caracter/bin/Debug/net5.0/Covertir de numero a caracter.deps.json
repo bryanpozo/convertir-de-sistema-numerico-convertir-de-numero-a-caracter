@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Covertir de numero a caracter/1.0.0": {
+        "runtime": {
+          "Covertir de numero a caracter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Covertir de numero a caracter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
